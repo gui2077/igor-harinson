@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+h1, label {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    text-align: center;
+    background-image: linear-gradient(to left, white, #19fff4);
+}
+
+form {
+    max-width: 280px;
+    text-align: right;
+    margin: auto;
+}
+
+footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+}
